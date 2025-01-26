@@ -24,12 +24,14 @@ python game.py
 # The Game Objects:
 
 rock = ```
+
     _______
 ---'   ____)
       (_____)
       (_____)
       (____)
 ---.__(___)
+
 ```
 
 paper = ```
