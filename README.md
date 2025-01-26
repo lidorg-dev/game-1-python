@@ -11,7 +11,7 @@ Scissors decapitates lizard.\
 Lizard eats paper.\
 Paper disproves Spock.\
 Spock vaporizes rock.\
-Rock crushes scissors.\
+Rock crushes scissors.
 
 [Learn more about rules](https://www.wikihow.com/Play-Rock-Paper-Scissors-Lizard-Spock)
 
