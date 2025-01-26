@@ -15,8 +15,6 @@ Rock crushes scissors.
 
 [Learn more about rules](https://www.wikihow.com/Play-Rock-Paper-Scissors-Lizard-Spock)
 
-
-
 ## Run The Game:
 ```
 python game.py
