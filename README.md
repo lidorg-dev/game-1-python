@@ -2,7 +2,7 @@
 
 # Game Rules:
 
-Scissors cuts paper.
+Scissors cuts paper.\n
 Paper covers rock.
 Rock crushes lizard.
 Lizard poisons Spock.
